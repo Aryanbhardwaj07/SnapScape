@@ -1,1 +1,1 @@
-# Photo-Social
+# SnapScape is an innovative photography-focused social media application designed to foster a global community of photographers. It offers a platform for photographers to exhibit their creative works, collaborate with peers, and immerse themselves in a supportive and inspiring environment. SnapScape aims to revolutionize the way photographers connect, share, and grow within the ever-evolving realm of photography.
